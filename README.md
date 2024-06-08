@@ -1,3 +1,1 @@
 # KUKURUZA
-
-test 08.06
